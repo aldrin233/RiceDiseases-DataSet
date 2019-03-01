@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Orig</folder>
+	<filename>blast_orig_001.jpg</filename>
+	<path>C:\Users\pc\Pictures\URGENT_DATASET_NEED_LABEL\blast\Orig\blast_orig_001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rice_Blast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>120</ymin>
+			<xmax>112</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>
