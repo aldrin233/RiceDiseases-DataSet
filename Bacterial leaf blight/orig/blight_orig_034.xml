@@ -1,0 +1,26 @@
+<annotation>
+	<folder>orig</folder>
+	<filename>blight_orig_034.jpg</filename>
+	<path>G:\BLB\orig\blight_orig_034.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bacterial_Blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>172</ymin>
+			<xmax>113</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

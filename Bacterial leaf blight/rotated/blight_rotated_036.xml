@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rotated</folder>
+	<filename>blight_rotated_036.JPG</filename>
+	<path>G:\BLB\rotated\blight_rotated_036.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bacterial_Blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>10</ymin>
+			<xmax>179</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>
