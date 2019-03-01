@@ -1,0 +1,26 @@
+<annotation>
+	<folder>orig</folder>
+	<filename>brownspot_orig_079.jpg</filename>
+	<path>C:\Users\iecudiamat\Downloads\brownspot-20180219T024548Z-001\brownspot\orig\brownspot_orig_079.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brown_Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>124</ymin>
+			<xmax>293</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

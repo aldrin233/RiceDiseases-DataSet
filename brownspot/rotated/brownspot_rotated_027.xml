@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rotated</folder>
+	<filename>brownspot_rotated_027.jpg</filename>
+	<path>C:\Users\iecudiamat\Downloads\brownspot-20180219T024548Z-001\brownspot\rotated\brownspot_rotated_027.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brown_Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>162</ymin>
+			<xmax>186</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>
